@@ -1,7 +1,7 @@
 {
   "name": "typeahead.js",
   "version": "0.11.1",
-  "main": "dist/typeahead.bundle.js",
+  "main": "dist/typeahead.jquery.js",
   "dependencies": {
     "jquery": ">=1.7"
   },
